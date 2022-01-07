@@ -14,7 +14,7 @@ if os.name == 'nt':
 else:
   os.system("clear")
 
-print(f"{w}------------------------------------------------------------------------")
+print
 ip = input("IP/Домен: ")
 port = int(input("Порт: "))
 
